@@ -1,0 +1,2 @@
+EmployeeID,FullName,HoursWorked,HourlyRate,TaxThreshold,GrossPay,Tax,NetPay,Superannuation
+2,Mindy Student,50,25,Y,0,0,0,0.00
